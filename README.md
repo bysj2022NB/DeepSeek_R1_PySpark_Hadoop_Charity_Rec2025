@@ -1,0 +1,2 @@
+# DeepSeek_R1_PySpark_Hadoop_Charity_Rec2025
+计算机毕业设计Hadoop+PySpark+DeepSeek-R1大模型爱心捐赠项目推荐系统 爱心捐赠大数据系统 爱心捐赠大数据可视化 Python中华慈善总会爬虫 情感分析 NLP 自然语言处理 Hive 机器学习 深度学习
